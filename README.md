@@ -28,7 +28,7 @@ This process can be improved using:
   ## Instructions
 - Train an Amazon Custom Labels Model. If you want step check [this video](https://www.youtube.com/watch?v=QwHbReDwdxQ&t=722s) Step by Step instruction can be found at 12:00 - 19:00
 - Install Greengrass on compute module (ex: Raspberry Pi) and connect it to an S3 bucket and replace the name in the CFN tempate
-- Deploy the template
+- Deploy the CFN template
 
   ## Clean up
 - Delete CFN Stack
