@@ -1,6 +1,6 @@
 # Right of Way Inspection Using Computer Vision on AWS
 
-[](https://github.com/salmandjing/iot-drone-automated-image-rekognition/blob/master/architecture.PNG?raw=true)
+![](https://github.com/salmandjing/iot-drone-automated-image-rekognition/blob/master/architecture.PNG?raw=true)
 
 ## Right of Way Inspection 
 
