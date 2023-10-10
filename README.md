@@ -1,6 +1,6 @@
 # Right of Way Inspection Using Computer Vision on AWS
 
-[](/architecture.PNG)
+[](https://github.com/salmandjing/iot-drone-automated-image-rekognition/blob/master/architecture.PNG)
 
 ## Right of Way Inspection 
 
@@ -31,6 +31,6 @@ This process can be improved using:
 - Deploy the template
 
   ## Clean up
-  - Delete CFN Stack
+- Delete CFN Stack
  
     
